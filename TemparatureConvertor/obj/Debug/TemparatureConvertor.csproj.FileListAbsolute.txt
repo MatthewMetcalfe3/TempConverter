@@ -1,0 +1,13 @@
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\bin\Debug\TemparatureConvertor.exe.config
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\bin\Debug\TemparatureConvertor.exe
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\bin\Debug\TemparatureConvertor.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.Form1.resources
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.Properties.Resources.resources
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.csproj.GenerateResource.Cache
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.exe
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\bin\Debug\TemparatureConvertor.exe.manifest
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\bin\Debug\TemparatureConvertor.application
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.exe.manifest
+c:\users\matthew\documents\visual studio 2015\Projects\TemparatureConvertor\TemparatureConvertor\obj\Debug\TemparatureConvertor.application
